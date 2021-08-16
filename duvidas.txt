@@ -1,0 +1,14 @@
+Dúvidas
+
+1) o que são as expressões "async await" e como usá-las
+
+2) o que significa 't' referenciado após assync e await nos arquivos de teste?
+
+3) é possível substituir a expressão: 
+    async x => { return x+1} 
+    por:
+    async function(x){return x+1}
+
+4) no arquivo "poc2.js" por que o retorno do seletor do segundo teste aparece como undefined?
+    Referência:
+    .expect(Selector('meta[name="description"]').innerHTML).eql('texto esperado')
